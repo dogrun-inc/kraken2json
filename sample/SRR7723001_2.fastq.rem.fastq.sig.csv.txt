@@ -1,0 +1,57 @@
+count,superkingdom,phylum,class,order,family,genus,species,strain,filename,sig_name,sig_md5,total_counts
+186486,d__Bacteria,,,,,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+72536,d__Bacteria,p__Bacteroidota,c__Bacteroidia,o__Bacteroidales,f__Bacteroidaceae,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+98831,d__Bacteria,p__Bacteroidota,c__Bacteroidia,o__Bacteroidales,,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+99608,d__Bacteria,p__Bacteroidota,c__Bacteroidia,,,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+99608,d__Bacteria,p__Bacteroidota,,,,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+18064,d__Bacteria,p__Bacteroidota,c__Bacteroidia,o__Bacteroidales,f__Bacteroidaceae,g__Bacteroides,s__Bacteroides faecis,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+25814,d__Bacteria,p__Bacteroidota,c__Bacteroidia,o__Bacteroidales,f__Bacteroidaceae,g__Bacteroides,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+24730,d__Bacteria,p__Bacteroidota,c__Bacteroidia,o__Bacteroidales,f__Bacteroidaceae,g__Phocaeicola,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+9719,d__Bacteria,p__Actinomycetota,c__Actinomycetia,o__Actinomycetales,f__Bifidobacteriaceae,g__Bifidobacterium,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+9958,d__Bacteria,p__Actinomycetota,c__Actinomycetia,o__Actinomycetales,f__Bifidobacteriaceae,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+9958,d__Bacteria,p__Actinomycetota,c__Actinomycetia,o__Actinomycetales,,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+10080,d__Bacteria,p__Actinomycetota,c__Actinomycetia,,,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+11330,d__Bacteria,p__Actinomycetota,,,,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+7561,d__Bacteria,p__Bacteroidota,c__Bacteroidia,o__Bacteroidales,f__Tannerellaceae,g__Parabacteroides,s__Parabacteroides distasonis,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+10379,d__Bacteria,p__Bacteroidota,c__Bacteroidia,o__Bacteroidales,f__Tannerellaceae,g__Parabacteroides,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+10379,d__Bacteria,p__Bacteroidota,c__Bacteroidia,o__Bacteroidales,f__Tannerellaceae,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+7273,d__Bacteria,p__Bacteroidota,c__Bacteroidia,o__Bacteroidales,f__Bacteroidaceae,g__Phocaeicola,s__Phocaeicola dorei,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+6727,d__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+6727,d__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Enterobacterales,,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+7918,d__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,,,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+7918,d__Bacteria,p__Pseudomonadota,,,,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+1617,d__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Enterobacter,s__Enterobacter hormaechei_A,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+2482,d__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Enterobacter,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+1263,d__Bacteria,p__Actinomycetota,c__Actinomycetia,o__Actinomycetales,f__Bifidobacteriaceae,g__Bifidobacterium,s__Bifidobacterium infantis,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+1084,d__Bacteria,p__Bacillota,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Streptococcus,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+1084,d__Bacteria,p__Bacillota,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+1234,d__Bacteria,p__Bacillota,c__Bacilli,o__Lactobacillales,,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+2461,d__Bacteria,p__Bacillota,c__Bacilli,,,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+2461,d__Bacteria,p__Bacillota,,,,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+1025,d__Bacteria,p__Bacillota_C,c__Negativicutes,o__Veillonellales,f__Veillonellaceae,g__Veillonella,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+1025,d__Bacteria,p__Bacillota_C,c__Negativicutes,o__Veillonellales,f__Veillonellaceae,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+1025,d__Bacteria,p__Bacillota_C,c__Negativicutes,o__Veillonellales,,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+1025,d__Bacteria,p__Bacillota_C,c__Negativicutes,,,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+1025,d__Bacteria,p__Bacillota_C,,,,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+546,d__Bacteria,p__Bacillota,c__Bacilli,o__Staphylococcales,f__Staphylococcaceae,g__Staphylococcus,s__Staphylococcus hominis,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+1010,d__Bacteria,p__Bacillota,c__Bacilli,o__Staphylococcales,f__Staphylococcaceae,g__Staphylococcus,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+1010,d__Bacteria,p__Bacillota,c__Bacilli,o__Staphylococcales,f__Staphylococcaceae,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+1010,d__Bacteria,p__Bacillota,c__Bacilli,o__Staphylococcales,,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+372,d__Bacteria,p__Bacteroidota,c__Bacteroidia,o__Bacteroidales,f__Bacteroidaceae,g__Alloprevotella,s__Alloprevotella sp000431275,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+372,d__Bacteria,p__Bacteroidota,c__Bacteroidia,o__Bacteroidales,f__Bacteroidaceae,g__Alloprevotella,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+358,d__Bacteria,p__Actinomycetota,c__Actinomycetia,o__Actinomycetales,f__Bifidobacteriaceae,g__Bifidobacterium,s__Bifidobacterium breve,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+320,,,,,,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+252,d__Bacteria,p__Bacteroidota,c__Bacteroidia,o__Flavobacteriales,f__Flavobacteriaceae,g__Gramella,s__Gramella crocea,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+252,d__Bacteria,p__Bacteroidota,c__Bacteroidia,o__Flavobacteriales,f__Flavobacteriaceae,g__Gramella,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+252,d__Bacteria,p__Bacteroidota,c__Bacteroidia,o__Flavobacteriales,f__Flavobacteriaceae,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+252,d__Bacteria,p__Bacteroidota,c__Bacteroidia,o__Flavobacteriales,,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+228,d__Bacteria,p__Bacteroidota,c__Bacteroidia,o__Bacteroidales,f__Bacteroidaceae,g__Bacteroides,s__Bacteroides fragilis,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+194,d__Bacteria,p__Bacillota,c__Bacilli,o__Staphylococcales,f__Staphylococcaceae,g__Staphylococcus,s__Staphylococcus epidermidis,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+192,d__Bacteria,p__Bacteroidota,c__Bacteroidia,o__Bacteroidales,f__Bacteroidaceae,g__Phocaeicola,s__Phocaeicola vulgatus,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+173,d__Bacteria,p__Actinomycetota,c__Actinomycetia,o__Actinomycetales,f__Bifidobacteriaceae,g__Bifidobacterium,s__Bifidobacterium longum,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+152,d__Bacteria,p__Bacteroidota,c__Bacteroidia,o__Bacteroidales,f__Bacteroidaceae,g__Bacteroides,s__Bacteroides clarus,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+150,d__Bacteria,p__Bacillota,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus,s__Lactobacillus iners,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+150,d__Bacteria,p__Bacillota,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+150,d__Bacteria,p__Bacillota,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+122,d__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Escherichia,s__Escherichia coli,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
+122,d__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Escherichia,,,SRR7723001_2.fastq.rem.fastq.sig,,2ec747fc48a9f63d8845783406dccc98,207028.0
