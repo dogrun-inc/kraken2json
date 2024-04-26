@@ -1,4 +1,5 @@
 import re
+from kraken2composition import read_kraken2report, select_by_rank
 
 
 def get_file_names(input_path) -> list:

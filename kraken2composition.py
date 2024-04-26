@@ -1,9 +1,8 @@
 import csv
-import os
-import glob
 from typing import List, NewType
 import argparse
 import re
+import json
 
 Filepath = NewType("Filepath", str)
 
@@ -80,7 +79,6 @@ def main():
     args = get_args()
     input_path = args.input
     output_path = args.output
-    run = ""
 
     # 1. read kraken2 report and return as list of list
     rows = read_kraken2report(input_path)
@@ -88,12 +86,18 @@ def main():
     composition = {}
     for rank in ranks:
         composition.update(select_by_rank(rows, rank))
-    return composition
-    
+
+    if output_path is None:
+        print(composition)
+    else:
+        with open(output_path, "w") as f:
+            f.write(json.dumps(composition))
+        
 
 if __name__ == "__main__":
     """_summary_
-    サンプル（run）ごとの系統組成データを取得しdict形式に変換する
+    サンプルごとの系統組成データを取得しJSON形式に変換する
+    コマンドラインで呼び出す場合入力するファイル名は -iオプションで指定する
     """
-    composition = main()
-    print(composition)
+    main()
+    
